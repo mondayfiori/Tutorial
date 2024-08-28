@@ -2,5 +2,8 @@ To start a new git repo in a project folder.
 I want to add some 
 other lines 
 
+
+
+some changeds
 Asfkjbdskj dsfkjnkjdsf 
 of the code in the same folder.
