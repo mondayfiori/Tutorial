@@ -1,2 +1,6 @@
 To start a new git repo in a project folder.
-I want to add some other lines of the code in the same folder.
+I want to add some 
+other lines 
+
+Asfkjbdskj dsfkjnkjdsf 
+of the code in the same folder.
